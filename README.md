@@ -4,4 +4,4 @@ A sleek and minimalist two-column resume template. Freely inspired by [Freeman C
 ## Usage
 All you need is to copy the content of `resume.tex` to an [Overleaf](https://www.overleaf.com) project, for instance.
 
-![Population dynamics simulation](./misc/SKT.gif)
+![Example rendering](./resume.png)
